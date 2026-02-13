@@ -48,7 +48,7 @@ const translations = {
     italian: 'ti amo',
     portuguese: 'eu te amo'
   },
-  good morning: {
+  'good morning': {
     spanish: 'buenos días',
     french: 'bonjour',
     german: 'guten morgen',
