@@ -1,0 +1,34 @@
+services:
+  - type: web
+    name: queen-angela-md
+    env: node
+    buildCommand: npm install
+    startCommand: node index.js
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: BOT_NAME
+        sync: false
+      - key: PREFIX
+        sync: false
+      - key: PORT
+        sync: false
+      - key: WHATSAPP_TOKEN
+        sync: false
+      - key: PHONE_NUMBER_ID
+        sync: false
+      - key: VERIFY_TOKEN
+        sync: false
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: OWNER_NUMBER
+        sync: false
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: GOOGLE_AI_KEY
+        sync: false
+      - key: DEEPSEEK_API_KEY
+        sync: false
