@@ -1,0 +1,262 @@
+{
+  "Science": [
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["A) Au", "B) Ag", "C) Go", "D) Gd"],
+      "answer": "A"
+    },
+    {
+      "question": "What planet is known as the Red Planet?",
+      "options": ["A) Venus", "B) Mars", "C) Jupiter", "D) Saturn"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the speed of light in vacuum?",
+      "options": ["A) 300,000 km/s", "B) 150,000 km/s", "C) 450,000 km/s", "D) 200,000 km/s"],
+      "answer": "A"
+    },
+    {
+      "question": "How many bones are in the human body?",
+      "options": ["A) 186", "B) 206", "C) 216", "D) 196"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the smallest unit of life?",
+      "options": ["A) Atom", "B) Molecule", "C) Cell", "D) Organ"],
+      "answer": "C"
+    },
+    {
+      "question": "What gas do plants absorb from the atmosphere?",
+      "options": ["A) Oxygen", "B) Nitrogen", "C) Carbon Dioxide", "D) Hydrogen"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["A) Gold", "B) Iron", "C) Diamond", "D) Quartz"],
+      "answer": "C"
+    },
+    {
+      "question": "What is H2O commonly known as?",
+      "options": ["A) Salt", "B) Water", "C) Acid", "D) Sugar"],
+      "answer": "B"
+    },
+    {
+      "question": "How many elements are in the periodic table?",
+      "options": ["A) 108", "B) 118", "C) 128", "D) 98"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the study of earthquakes called?",
+      "options": ["A) Geology", "B) Meteorology", "C) Seismology", "D) Volcanology"],
+      "answer": "C"
+    }
+  ],
+  "History": [
+    {
+      "question": "In which year did World War II end?",
+      "options": ["A) 1943", "B) 1944", "C) 1945", "D) 1946"],
+      "answer": "C"
+    },
+    {
+      "question": "Who was the first President of the United States?",
+      "options": ["A) Thomas Jefferson", "B) George Washington", "C) John Adams", "D) Benjamin Franklin"],
+      "answer": "B"
+    },
+    {
+      "question": "What year did the Berlin Wall fall?",
+      "options": ["A) 1987", "B) 1988", "C) 1989", "D) 1990"],
+      "answer": "C"
+    },
+    {
+      "question": "Who painted the Mona Lisa?",
+      "options": ["A) Michelangelo", "B) Leonardo da Vinci", "C) Raphael", "D) Donatello"],
+      "answer": "B"
+    },
+    {
+      "question": "What ancient wonder was located in Alexandria?",
+      "options": ["A) Hanging Gardens", "B) Colossus", "C) Lighthouse", "D) Pyramid"],
+      "answer": "C"
+    },
+    {
+      "question": "Who was the first person to walk on the moon?",
+      "options": ["A) Buzz Aldrin", "B) Neil Armstrong", "C) Yuri Gagarin", "D) John Glenn"],
+      "answer": "B"
+    },
+    {
+      "question": "In which year did the Titanic sink?",
+      "options": ["A) 1910", "B) 1911", "C) 1912", "D) 1913"],
+      "answer": "C"
+    },
+    {
+      "question": "What was the name of the first space shuttle?",
+      "options": ["A) Discovery", "B) Challenger", "C) Columbia", "D) Atlantis"],
+      "answer": "C"
+    },
+    {
+      "question": "Who invented the telephone?",
+      "options": ["A) Thomas Edison", "B) Nikola Tesla", "C) Alexander Graham Bell", "D) Guglielmo Marconi"],
+      "answer": "C"
+    },
+    {
+      "question": "What year did the internet become publicly available?",
+      "options": ["A) 1989", "B) 1991", "C) 1993", "D) 1995"],
+      "answer": "B"
+    }
+  ],
+  "Geography": [
+    {
+      "question": "What is the capital of France?",
+      "options": ["A) London", "B) Berlin", "C) Paris", "D) Rome"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the largest ocean on Earth?",
+      "options": ["A) Atlantic", "B) Indian", "C) Arctic", "D) Pacific"],
+      "answer": "D"
+    },
+    {
+      "question": "What is the longest river in the world?",
+      "options": ["A) Amazon", "B) Nile", "C) Mississippi", "D) Yangtze"],
+      "answer": "B"
+    },
+    {
+      "question": "How many continents are there?",
+      "options": ["A) 5", "B) 6", "C) 7", "D) 8"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the smallest country in the world?",
+      "options": ["A) Monaco", "B) Vatican City", "C) San Marino", "D) Liechtenstein"],
+      "answer": "B"
+    },
+    {
+      "question": "Mount Everest is located in which mountain range?",
+      "options": ["A) Andes", "B) Alps", "C) Himalayas", "D) Rockies"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the capital of Japan?",
+      "options": ["A) Seoul", "B) Beijing", "C) Bangkok", "D) Tokyo"],
+      "answer": "D"
+    },
+    {
+      "question": "Which desert is the largest in the world?",
+      "options": ["A) Sahara", "B) Gobi", "C) Antarctic", "D) Arabian"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the currency of the United Kingdom?",
+      "options": ["A) Euro", "B) Dollar", "C) Pound Sterling", "D) Franc"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the largest country by land area?",
+      "options": ["A) Canada", "B) China", "C) United States", "D) Russia"],
+      "answer": "D"
+    }
+  ],
+  "Pop Culture": [
+    {
+      "question": "Who is known as the 'King of Pop'?",
+      "options": ["A) Elvis Presley", "B) Michael Jackson", "C) Prince", "D) Madonna"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the highest-grossing film of all time?",
+      "options": ["A) Titanic", "B) Avatar", "C) Avengers: Endgame", "D) Star Wars"],
+      "answer": "B"
+    },
+    {
+      "question": "Who wrote the Harry Potter book series?",
+      "options": ["A) J.R.R. Tolkien", "B) C.S. Lewis", "C) J.K. Rowling", "D) George R.R. Martin"],
+      "answer": "C"
+    },
+    {
+      "question": "What year did the first iPhone release?",
+      "options": ["A) 2005", "B) 2006", "C) 2007", "D) 2008"],
+      "answer": "C"
+    },
+    {
+      "question": "Who painted the Sistine Chapel ceiling?",
+      "options": ["A) Leonardo da Vinci", "B) Raphael", "C) Michelangelo", "D) Botticelli"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the most-watched video on YouTube?",
+      "options": ["A) Despacito", "B) Baby Shark", "C) Gangnam Style", "D) Shape of You"],
+      "answer": "B"
+    },
+    {
+      "question": "Who is the creator of Facebook?",
+      "options": ["A) Bill Gates", "B) Steve Jobs", "C) Mark Zuckerberg", "D) Elon Musk"],
+      "answer": "C"
+    },
+    {
+      "question": "What Netflix series features Eleven?",
+      "options": ["A) Breaking Bad", "B) Stranger Things", "C) The Crown", "D) Black Mirror"],
+      "answer": "B"
+    },
+    {
+      "question": "Who won the most Grammy Awards?",
+      "options": ["A) Beyoncé", "B) Taylor Swift", "C) Michael Jackson", "D) Kanye West"],
+      "answer": "A"
+    },
+    {
+      "question": "What is the name of the coffee shop in Friends?",
+      "options": ["A) Starbucks", "B) Central Perk", "C) Java Joe's", "D) The Grind"],
+      "answer": "B"
+    }
+  ],
+  "Technology": [
+    {
+      "question": "What does CPU stand for?",
+      "options": ["A) Central Process Unit", "B) Computer Personal Unit", "C) Central Processing Unit", "D) Central Processor Unit"],
+      "answer": "C"
+    },
+    {
+      "question": "Who is considered the father of computers?",
+      "options": ["A) Alan Turing", "B) Charles Babbage", "C) Bill Gates", "D) Steve Jobs"],
+      "answer": "B"
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": ["A) Hyper Text Markup Language", "B) High Tech Modern Language", "C) Home Tool Markup Language", "D) Hyperlinks and Text Markup Language"],
+      "answer": "A"
+    },
+    {
+      "question": "What year was Google founded?",
+      "options": ["A) 1996", "B) 1998", "C) 2000", "D) 2002"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the main programming language for iOS apps?",
+      "options": ["A) Java", "B) Python", "C) Swift", "D) C++"],
+      "answer": "C"
+    },
+    {
+      "question": "What does AI stand for?",
+      "options": ["A) Automated Intelligence", "B) Artificial Intelligence", "C) Advanced Integration", "D) Automated Integration"],
+      "answer": "B"
+    },
+    {
+      "question": "Who founded Tesla Motors?",
+      "options": ["A) Bill Gates", "B) Jeff Bezos", "C) Elon Musk", "D) Steve Jobs"],
+      "answer": "C"
+    },
+    {
+      "question": "What is the most popular operating system for servers?",
+      "options": ["A) Windows", "B) macOS", "C) Linux", "D) Unix"],
+      "answer": "C"
+    },
+    {
+      "question": "What does URL stand for?",
+      "options": ["A) Universal Resource Locator", "B) Uniform Resource Locator", "C) Universal Reference Link", "D) Uniform Reference Link"],
+      "answer": "B"
+    },
+    {
+      "question": "What is the name of Amazon's virtual assistant?",
+      "options": ["A) Siri", "B) Cortana", "C) Alexa", "D) Google Assistant"],
+      "answer": "C"
+    }
+  ]
+}
