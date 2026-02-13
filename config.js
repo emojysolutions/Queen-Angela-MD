@@ -3,6 +3,7 @@ module.exports = {
   prefix: '/',
   owner: 'Queen Angela Bot',
   sessionName: 'auth_info_baileys',
+  logLevel: 'silent', // Options: 'fatal', 'error', 'warn', 'info', 'debug', 'trace', 'silent'
   
   // Bot responses
   responses: {

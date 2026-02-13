@@ -5,7 +5,7 @@ const qrcode = require('qrcode-terminal');
 const config = require('./config');
 
 // Logger configuration
-const logger = pino({ level: 'silent' });
+const logger = pino({ level: config.logLevel });
 
 async function connectToWhatsApp() {
   const { state, saveCreds } = await useMultiFileAuthState(config.sessionName);

@@ -14,7 +14,7 @@ A powerful and easy-to-use WhatsApp bot built with Node.js and Baileys library.
 ## Prerequisites 📋
 
 Before you begin, ensure you have the following installed:
-- [Node.js](https://nodejs.org/) (v16 or higher)
+- [Node.js](https://nodejs.org/) (v20 or higher)
 - npm (comes with Node.js)
 
 ## Installation 🚀
@@ -96,7 +96,7 @@ Queen-Angela-MD/
 **Bot won't connect:**
 - Make sure you have a stable internet connection
 - Delete the `auth_info_baileys` folder and scan QR code again
-- Ensure you're using Node.js v16 or higher
+- Ensure you're using Node.js v20 or higher
 
 **QR code not displaying:**
 - Try running in a terminal that supports UTF-8
